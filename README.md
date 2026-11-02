@@ -110,7 +110,7 @@ measuring it.
 ## Quickstart
 
 ```bash
-git clone https://github.com/[username]/v2guard-federated-blockchain-ids.git
+git clone https://github.com/Azzeddinehamza/v2guard-federated-blockchain-ids.git
 cd v2guard-federated-blockchain-ids
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
