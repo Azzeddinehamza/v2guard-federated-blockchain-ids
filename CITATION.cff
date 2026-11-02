@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying master's thesis."
+title: "V2Guard: Privacy-Preserving Blockchain-Driven Intrusion Detection for Vehicle-to-Grid Networks"
+type: software
+authors:
+  - family-names: Azedine
+    given-names: Hamza
+  - family-names: Bourouis
+    given-names: Adam
+year: 2025
+license: MIT
+repository-code: "https://github.com/[username]/v2guard-federated-blockchain-ids"
+keywords:
+  - federated learning
+  - blockchain
+  - intrusion detection
+  - vehicle-to-grid
+  - cyber-physical systems security
+  - privacy
+abstract: >-
+  Federated intrusion detection framework for Vehicle-to-Grid networks in which
+  model updates are anchored as hashes in a Solidity smart contract and verified
+  before aggregation. Evaluated with Random Forest and DNN models on NSL-KDD and
+  UNSW-NB15 across six non-IID clients.
